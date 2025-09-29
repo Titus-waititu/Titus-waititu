@@ -33,11 +33,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--  -->
   <h2>🐍 Snake eating Contribution🐍</h2>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Titus-waititu/Titus-waititu/blob/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Titus-waititu/Titus-waititu/blob/output/dist/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Titus-waititu/Titus-waititu/blob/output/dist/github-contribution-grid-snake.svg" alt="Titus-waititu GitHub Contribution Snake" />
+</picture>
   <br />
   <br />
   <br />
